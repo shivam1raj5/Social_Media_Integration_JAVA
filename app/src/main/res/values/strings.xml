@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Social_Media_Integration_JAVA</string>
+    <string name="app_name">Social Media Integration</string>
+    <string name="facebook_app_id">1229167454181668</string>
+    <string name="fb_login_protocol_scheme">fb1229167454181668</string>
+    <string name="sign_out">Sign out</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="todo">TODO</string>
+    <string name="social_media_integration">Social Media Integration</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="developed_by">Developed by</string>
+    <string name="shivam_raj">Shivam Raj</string>
+    <string name="log_out">Log out</string>
+
 </resources>
