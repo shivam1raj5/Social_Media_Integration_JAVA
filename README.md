@@ -8,16 +8,17 @@ Integrations:
 Google sign in Integration
 Facebook Integration
 
-![Screenshot_20231016_005057_Social Media Integration](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/d3718362-dc74-406e-895d-29c54466909c)
+
+![2](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/f32fc7f0-4524-4d19-bd69-aafce6079dae)
 
 
-![Screenshot_20231016_005102_Social Media Integration](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/722c4564-6511-445d-9802-4bd31d79901a)
+![3](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/d7d30c46-d19d-48d6-9d68-23b19eafaaf8)
 
 
-![Screenshot_20231016_005120_Google Play services](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/bcc84997-3fe2-433e-be7f-e1bac7b5191b)
+![4](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/646a67fb-e38e-4eab-a800-21eaa0989b1f)
 
 
-![Screenshot_20231016_005152_Social Media Integration](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/6c7f587a-936d-4a36-a2ed-8ad3af186d3a)
+![5](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/9786d72c-58b4-4378-b224-6dfecf5f181f)
 
 
-![Screenshot_20231016_005049_One UI Home](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/2abb945e-5891-455b-b8b2-6d2583fff2f4)
+![6](https://github.com/shivam1raj5/Social_Media_Integration_JAVA/assets/57479532/6557b036-1b09-497c-be7a-a83971caa1a4)
